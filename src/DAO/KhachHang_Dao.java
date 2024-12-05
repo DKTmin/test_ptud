@@ -2,8 +2,11 @@ package DAO;
 
 public class KhachHang_Dao {
 	private String Khanh; 
-	 public String in() {
+	
+	
+	public String in() {
 		 return Khanh + "Phuc"; 
 	 }
-	 
+	
 }
+
