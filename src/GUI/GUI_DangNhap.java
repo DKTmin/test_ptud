@@ -39,14 +39,14 @@ public class GUI_DangNhap extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(297, 297, 297)
                 .addComponent(jButton1)
-                .addContainerGap(328, Short.MAX_VALUE))
+                .addContainerGap(309, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGap(232, 232, 232)
                 .addComponent(jButton1)
-                .addContainerGap(309, Short.MAX_VALUE))
+                .addContainerGap(284, Short.MAX_VALUE))
         );
 
         pack();
