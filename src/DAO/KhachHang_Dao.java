@@ -5,8 +5,8 @@ public class KhachHang_Dao {
 	
 	
 	public String in() {
-		return Khanh; 
-		
-	}
+		 return Khanh + "Phuc"; 
+	 }
 	
 }
+
