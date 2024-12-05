@@ -9,4 +9,8 @@ public class KhachHang_Dao {
 		
 	}
 	
+	public String out() { 
+		return Khanh + "Khanh" ;
+	}
+	
 }
